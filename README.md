@@ -1,5 +1,7 @@
-Adafruit_SH1106
-===============
+Adafruit_SH1106 with Dimming
+============================
+
+![](https://github.com/koogar/Adafruit_SH1106_OLED_ATSAMD/blob/main/images/SH1106%20SPi%20and%20i2c%20OLED.jpg)
 
 Adafruit graphic library for SH1106 driver lcds.
 
